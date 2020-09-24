@@ -14,4 +14,4 @@ JiuZhouSports is committed to promoting professional and high-quality skiing equ
 
 Use professional skiing equipment and have fun!
 
-If you have any questions, please contact us as follows : eaym08771@sina.com
+If you have any questions, please contact us as follows :chx19810901@icloud.com
