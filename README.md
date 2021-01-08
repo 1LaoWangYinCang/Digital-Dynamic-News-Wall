@@ -1,6 +1,6 @@
-# Ok Digital Info Analysis
+# Digital Dynamic News Wall
 
-Ok Digital Info Analysis contains the latest market information and news information, which is convenient for users to know the information in the circle in time. You'll also be able to comment on these informative articles, give your own opinion, and share your favorite thumb up articles.
+Digital Dynamic News Wall contains the latest market information and news information, which is convenient for users to know the information in the circle in time. You'll also be able to comment on these informative articles, give your own opinion, and share your favorite thumb up articles.
 
 - Our app can also express our opinions in the community topic circle and communicate and discuss with others.
 
@@ -9,4 +9,4 @@ Ok Digital Info Analysis contains the latest market information and news informa
 - Our app also displays the market information of various currencies, so that users can better understand the market changes.
 
 The latest hottest news and news are all here.
-If you have any questions, please contact us as follows :thenesgdcex@hotmail.com
+If you have any questions, please contact us as follows :teshithxswqh@hotmail.com
